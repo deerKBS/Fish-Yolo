@@ -2,6 +2,7 @@
 
 - Yolov8
 - tensorflow
+- Fast API
 
 ### Fish Classes
 - Red Sea Bream => 참돔
