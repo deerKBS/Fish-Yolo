@@ -16,6 +16,11 @@
 - Train & test
   - 다양한 버전의 모델 학습 및 예측 시간 측정
   - 다양한 학습 방법 시도
+- IOS Lidar sensor를 사용한 Object 거리 측정
+  - https://developer.apple.com/forums/thread/709872
+  - https://developer.apple.com/documentation/avfoundation/additional_data_capture/capturing_depth_using_the_lidar_camera?language=objc
+  - https://mrousavy.com/blog/Camera-APIs-on-Android
+  - https://github.com/mrousavy/react-native-vision-camera
 
 ### DataSet
 https://universe.roboflow.com/baesung-koo-wzsdb/fish-detection-mv7xg
