@@ -35,4 +35,4 @@ https://universe.roboflow.com/baesung-koo-wzsdb/fish-detection-mv7xg
   - 1500장 수집 및 라벨링 (전처리로 4500장 이상)
   - Yolov8n 모델 학습
   - 성능 평가 데이터 차후 업데이트
-
+  - Flask에서 FastAPI 서버로 변경
