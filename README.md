@@ -11,11 +11,12 @@
 
 ---
 ### to do
-- 데이터셋 수집 (추가)
-- 라벨링 (추가)
-- Train & test
-  - 다양한 버전의 모델 학습 및 예측 시간 측정
-  - 다양한 학습 방법 시도
+1. flask -> fast api   (o)
+2. gpu 사용 (o)
+3. 안스 카메라 앱
+4. 안스 <-> ai 서버 연결
+5. 결과 화면에 표현
+6. 도감 등록 구현
 
 
 ### DataSet
@@ -36,3 +37,10 @@ https://universe.roboflow.com/baesung-koo-wzsdb/fish-detection-mv7xg
   - Yolov8n 모델 학습
   - 성능 평가 데이터 차후 업데이트
   - Flask에서 FastAPI 서버로 변경
+    - pip install fastapi
+    - pip install "uvicorn[standard]"
+    - pip install ultralytics
+    - pip install python-multipart
+    - pip install torch
+    - pip install tensorflow
+
