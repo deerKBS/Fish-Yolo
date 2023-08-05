@@ -5,14 +5,14 @@
 - Fast API
 
 ### Fish Classes
-쏘가리 leopard mandarin fish
-쥐노래미 Fat greenling
-감성돔 black porgy
-옥돔 Red tilefish
-참돔 Red Seabream
-송어 trout
-돌돔 Doldom
-말쥐치 Black scraper
+- 쏘가리 leopard mandarin fish
+- 쥐노래미 Fat greenling
+- 감성돔 black porgy
+- 옥돔 Red tilefish
+- 참돔 Red Seabream
+- 송어 trout
+- 돌돔 Doldom
+- 말쥐치 Black scraper
 ---
 ### to do
 1. flask -> fast api   (o)
