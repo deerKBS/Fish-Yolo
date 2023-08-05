@@ -5,10 +5,14 @@
 - Fast API
 
 ### Fish Classes
-- Red Sea Bream => 참돔
-- Sea Bass => 농어
-- Trout => 송어
-
+쏘가리 leopard mandarin fish
+쥐노래미 Fat greenling
+감성돔 black porgy
+옥돔 Red tilefish
+참돔 Red Seabream
+송어 trout
+돌돔 Doldom
+말쥐치 Black scraper
 ---
 ### to do
 1. flask -> fast api   (o)
