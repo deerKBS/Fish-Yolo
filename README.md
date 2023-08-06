@@ -15,12 +15,7 @@
 - 말쥐치 Black scraper
 ---
 ### to do
-1. flask -> fast api   (o)
-2. gpu 사용 (o)
-3. 안스 카메라 앱
-4. 안스 <-> ai 서버 연결
-5. 결과 화면에 표현
-6. 도감 등록 구현
+- 도감 등록 후 알림 (SSE)
 
 
 ### DataSet
