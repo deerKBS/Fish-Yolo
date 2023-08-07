@@ -43,3 +43,8 @@ https://universe.roboflow.com/baesung-koo-wzsdb/fish-detection-mv7xg
     - pip install torch
     - pip install tensorflow
 
+---
+
+- fast api server 로컬 환경에서 안되는 문제
+- 어떻게 해결...?
+
