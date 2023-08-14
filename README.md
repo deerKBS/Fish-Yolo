@@ -3,6 +3,7 @@
 - Yolov8
 - tensorflow
 - Fast API
+- Google ARCore for length measurement
 
 ### Fish Classes
 - 쏘가리 leopard mandarin fish
@@ -29,7 +30,7 @@ https://universe.roboflow.com/baesung-koo-wzsdb/fish-detection-mv7xg
   - https://mrousavy.com/blog/Camera-APIs-on-Android
   - https://github.com/mrousavy/react-native-vision-camera
  
-- Google ARCore (Android Studio) try
+- Google ARCore (Android Studio)
 
   ---
   - 1500장 수집 및 라벨링 (전처리로 4500장 이상)
@@ -42,9 +43,7 @@ https://universe.roboflow.com/baesung-koo-wzsdb/fish-detection-mv7xg
     - pip install python-multipart
     - pip install torch
     - pip install tensorflow
-
+  - ARCore 자동 초점 미지원 관계로 초점이 맞지 않는 이미지로 추가학습 필요 및 예정
 ---
 
-- fast api server 로컬 환경에서 안되는 문제
-- 어떻게 해결...?
 
